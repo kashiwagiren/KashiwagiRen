@@ -13,5 +13,5 @@
 
 ### Current Status Quo:
 
-- 💼 1st year <strong>Bachelor of Science in Computer Engineering</strong>.
+- 💼 2nd year <strong>Bachelor of Science in Computer Engineering</strong>.
 - 🌱 I’m currently learning C, Java, Python, HTML, CSS, JavaScript
