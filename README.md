@@ -1,6 +1,6 @@
 <h1><img src="https://i.imgur.com/0KBzE6M.gif" width="30"/> Welcome!!</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=I'm+Kieth+Wilbur+J.+Chua;You+can+call+me+Ren;Computer+Engineering+Student)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=I'm+Kieth+Wilbur+Chua;Computer+Engineering+Student)](https://git.io/typing-svg)
 
  
 
