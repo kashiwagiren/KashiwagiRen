@@ -9,7 +9,7 @@
 
 ### How to reach me:
 
-- 📫 kiethwilbur59@gmail.com || kieth4825@gmail.com
+- 📫 kieth4825@gmail.com
 
 
 
