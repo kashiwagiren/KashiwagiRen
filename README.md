@@ -12,13 +12,13 @@
 
 
 
-# Connect with Me:
+# Connect with Me
 
  📫 kieth4825@gmail.com 📫
 
 #
 
-# Current Status Quo:
+# Current Status Quo
 
  💼 3rd year <strong>Bachelor of Science in Computer Engineering</strong>. 💼
  
