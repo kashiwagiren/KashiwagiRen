@@ -1,16 +1,6 @@
-<!-- English - https://i.imgur.com/fPUyYqS.png -->
-<!-- Japanese - https://i.imgur.com/Dtfa8qy.png -->
-
 <div align="center">
-
-<!-- # <img src="https://i.imgur.com/0KBzE6M.gif" width="30"/> ![Hello!](https://i.imgur.com/Ub1xuGS.png) <img src="https://i.imgur.com/0KBzE6M.gif" width="30"/> -->
-
-  <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=I'm+Kieth+Wilbur+Chua;Computer+Engineering+Student)](https://git.io/typing-svg) -->
-<a href="https://git.io/typing-svg" align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=I'm+Kieth+Wilbur+Chua;Computer+Engineering+Student" style="margin-right: 20px;"/>
-</a>
-
-
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I'm+Kieth+Wilbur+Chua;Computer+Engineering+Student)](https://git.io/typing-svg)
 
 # Connect with Me
 
@@ -39,7 +29,6 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-<!-- ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) -->
 
 
 <table>
