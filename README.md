@@ -1,6 +1,6 @@
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I'm+Kieth+Wilbur+Chua;Computer+Engineering+Student)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=‎.+.+.+.+I'm+Kieth+Wilbur+Chua;.+.+Computer+Engineering+Student)](https://git.io/typing-svg)
 
 # Connect with Me
 
