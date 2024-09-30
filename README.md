@@ -3,11 +3,11 @@
 
 <div align="center">
 
-# <img src="https://i.imgur.com/0KBzE6M.gif" width="30"/> ![Hello!](https://i.imgur.com/Ub1xuGS.png) <img src="https://i.imgur.com/0KBzE6M.gif" width="30"/>
+<!-- # <img src="https://i.imgur.com/0KBzE6M.gif" width="30"/> ![Hello!](https://i.imgur.com/Ub1xuGS.png) <img src="https://i.imgur.com/0KBzE6M.gif" width="30"/> -->
 
   <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=I'm+Kieth+Wilbur+Chua;Computer+Engineering+Student)](https://git.io/typing-svg) -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=I'm+Kieth+Wilbur+Chua;Computer+Engineering+Student" style="margin-left: 50px;"/>
+<a href="https://git.io/typing-svg" align="center">
+                                          <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=I'm+Kieth+Wilbur+Chua;Computer+Engineering+Student" style="margin-right: 1200000000000000px;"/>
 </a>
 
 
