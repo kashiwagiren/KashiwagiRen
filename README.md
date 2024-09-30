@@ -7,7 +7,7 @@
 
   <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=I'm+Kieth+Wilbur+Chua;Computer+Engineering+Student)](https://git.io/typing-svg) -->
 <a href="https://git.io/typing-svg" align="center">
-                                          <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=I'm+Kieth+Wilbur+Chua;Computer+Engineering+Student" style="margin-right: 1200000000000000px;"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=I'm+Kieth+Wilbur+Chua;Computer+Engineering+Student" style="margin-right: 20px;"/>
 </a>
 
 
