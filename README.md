@@ -34,5 +34,7 @@
 
 ## GitHub Stats 📊
 ![](https://github-readme-stats.vercel.app/api?username=kashiwagiren&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true)
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kashiwagiren&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kashiwagiren&theme=tokyonight&hide_border=false)
