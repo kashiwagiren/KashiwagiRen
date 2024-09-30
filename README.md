@@ -32,20 +32,8 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=kashiwagiren&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kashiwagiren&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true&layout=compact" />
-    </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=kashiwagiren&theme=tokyonight&hide_border=false" />
-    </td>
-  </tr>
-</table>
-
+<p align="center">
+  <img alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=kashiwagiren&hide_border=true&theme=transparent" /> 
+</p>
 
 </div>
