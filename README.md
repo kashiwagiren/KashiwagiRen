@@ -14,9 +14,20 @@
 
 # Connect with Me
 
- 📫 kieth4825@gmail.com 📫
-
-#
+ <h3 align="center"></h3>
+<p align="center">
+  <a href="mailto:kieth4825@gmail.com" target="_blank">
+    <img align="center" src="assets/gmail.png" alt="mail" height="50" width="55" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://kashiwagiren.github.io" target="_blank">
+    <img align="center" src="assets/web.png" alt="website" height="50" width="50" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/kieth-wilbur-chua-a40b282a9/" target="_blank">
+    <img align="center" src="assets/linkedin.png" alt="linkedin" height="60" width="60" />
+  </a>
+</p>
 
 # Current Status Quo
 
