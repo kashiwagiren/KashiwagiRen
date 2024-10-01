@@ -42,4 +42,7 @@
 
 # Trophies
 ![](https://github-profile-trophy.vercel.app/?username=kashiwagiren&theme=monokai&no-frame=true&no-bg=false&margin-w=4)
+
+---
+[![](https://visitcount.itsvg.in/api?id=kashiwagiren&icon=3&color=5)](https://visitcount.itsvg.in)
 </div>
