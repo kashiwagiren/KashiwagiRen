@@ -17,7 +17,7 @@
   </a>
 </p>
 
-# Current Status Quos
+# Current Status Quo
 
  💼 3rd year <strong>Bachelor of Science in Computer Engineering</strong>. 💼
  
