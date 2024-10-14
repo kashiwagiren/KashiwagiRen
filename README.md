@@ -2,7 +2,7 @@
   
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=‎.+.+.+.+I'm+Kieth+Wilbur+Chua;.+.+Computer+Engineering+Student)](https://git.io/typing-svg)
 
-# Connect with Messss
+# Connect with Me
 
 <h3 align="center"></h3>
 <p align="center">
