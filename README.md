@@ -2,8 +2,6 @@
   
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=‎.+.+.+.+I'm+Kieth+Wilbur+Chua;.+.+Computer+Engineering+Student)](https://git.io/typing-svg)
 
-# Connect with Me
-
 <h3 align="center"></h3>
 <p align="center">
   <a href="mailto:kieth4825@gmail.com" target="_blank">
@@ -16,8 +14,6 @@
     <img align="center" src="assets/linkedin.png" alt="linkedin" height="60" width="60" />
   </a>
 </p>
-
-# Current Status Quo
 
  💼 3rd year <strong>Bachelor of Science in Computer Engineering</strong>. 💼
  
