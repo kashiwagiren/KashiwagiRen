@@ -15,9 +15,9 @@
   </a>
 </p>
 
- 💼 3rd year <strong>Bachelor of Science in Computer Engineering</strong>. 💼
+   3rd year <strong>Bachelor of Science in Computer Engineering</strong>. 
  
- 🌱 I’m currently learning C, Python, Web Development/Design 🌱
+   I’m currently learning:
 
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white)
