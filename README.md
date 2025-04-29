@@ -17,9 +17,10 @@
 
  💼 3rd year <strong>Bachelor of Science in Computer Engineering</strong>. 💼
  
- 🌱 I’m currently learning C, Web Design 🌱
+ 🌱 I’m currently learning C, Python, Web Development/Design 🌱
 
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
+![Python](https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JS](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
@@ -29,6 +30,4 @@
 </p>
 
 # Tools Used
-![Git Icon](https://img.icons8.com/color/48/000000/git.png) ![Arduino Icon](https://img.icons8.com/color/48/000000/arduino.png) 
-
 [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
