@@ -17,7 +17,7 @@
 
  💼 3rd year <strong>Bachelor of Science in Computer Engineering</strong>. 💼
  
- 🌱 I’m currently learning C, Java, .NET Framework, Front-end web development 🌱
+ 🌱 I’m currently learning C, Front-end web development 🌱
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
