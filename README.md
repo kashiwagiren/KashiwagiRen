@@ -25,9 +25,5 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JS](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 
-<p align="center">
-  <img alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=kashiwagiren&hide_border=true&theme=transparent" /> 
-</p>
-
 # Tools Used
 [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
