@@ -15,7 +15,7 @@
   </a>
 </p>
 
-   4th year <strong>Bachelor of Science in Computer Engineering</strong>. 
+   4th years <strong>Bachelor of Science in Computer Engineering</strong>. 
  
    I’m currently learning:
 
