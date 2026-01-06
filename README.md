@@ -17,7 +17,7 @@
 
    4th year <strong>Bachelor of Science in Computer Engineering</strong>. 
  
-   I’m currently learning:
+   I’m currently learnings:
 
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white)
