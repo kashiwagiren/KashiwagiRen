@@ -1,6 +1,6 @@
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=‎.+.+.+.+I'm+Kieth+Wilbur+Chua;.+.+Computer+Engineering+Student)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=‎.+.+.+.+I'm+Kieth+Wilbur+Chua;.+.+.+.+.+Computer+Engineer)](https://git.io/typing-svg)
 
 <h3 align="center"></h3>
 <p align="center">
@@ -15,7 +15,7 @@
   </a>
 </p>
 
-   4th year <strong>Bachelor of Science in Computer Engineering</strong>. 
+   <strong>Computer Engineer</strong>. 
  
    I’m currently learning:
 
